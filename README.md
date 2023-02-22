@@ -33,9 +33,9 @@ git clone https://github.com/nickmezacapa/multiple-linear-regression.git
 ```bash
 pip install pandas numpy matplotlib scikit-learn
 ```
-3. Run the Jupyter Notebook
+3. Run the script
 ```bash
-jupyter notebook main.ipynb
+python main.py
 ```
 <br>
 
