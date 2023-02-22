@@ -39,7 +39,6 @@ python main.py
 ```
 <br>
 
-
 ## ✅ Results
 This model achieved an R2 score of 0.93, indicating a strong correlation between the independent and dependent variables. The model was able to predict the net hourly electrical energy output of the plant with 93% accuracy. The actual and predicted values are visualized in a scatter plot and a DataFrame is created to compare the actual and predicted values. The DataFrame shows the first 20 rows of the test set, along with the actual value, predicted value, and residual error. A screenshot of the scatter plot is shown below.
 <br>
